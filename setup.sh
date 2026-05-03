@@ -6,7 +6,10 @@ set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 MEMORY_SRC="$REPO_DIR/.claude/memory"
-MEMORY_DST_PARENT="$HOME/.claude/projects/-Users-$USER-work-study"
+# Claude Code derives the project dir name from the absolute cwd
+# by replacing every "/" with "-" (e.g. /home/u/x -> -home-u-x).
+PROJECT_NAME="${REPO_DIR//\//-}"
+MEMORY_DST_PARENT="$HOME/.claude/projects/$PROJECT_NAME"
 MEMORY_DST="$MEMORY_DST_PARENT/memory"
 
 if [ ! -d "$MEMORY_SRC" ]; then

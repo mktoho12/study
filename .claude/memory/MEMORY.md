@@ -1,3 +1,4 @@
 - [学習フォルダ規約](project_folder_convention.md) — 授業/チャプター2桁/セクション1桁の3階層、最深層に作業ファイルを置く
 - [未読範囲の予想を促さない](feedback_no_premature_speculation.md) — 後の章で学ぶ内容を Socratic で先取り予想させない
 - [数式は session.md に書く](feedback_math_in_files.md) — ターミナルでは LaTeX が読めない、論証や式変形はファイル経由で
+- [ガイダンス章では深追いしない](feedback_guidance_chapter_depth.md) — 概観セクションでは Socratic で定義を導出しきらず、見取り図止まり

@@ -3,3 +3,4 @@
 - [数式は session.md に書く](feedback_math_in_files.md) — ターミナルでは LaTeX が読めない、論証や式変形はファイル経由で
 - [ガイダンス章では深追いしない](feedback_guidance_chapter_depth.md) — 概観セクションでは Socratic で定義を導出しきらず、見取り図止まり
 - [Socratic中のファイル出力では答えを書かない](feedback_socratic_file_output_no_answers.md) — 「数式読めないから書いて」要求でも、選択肢への当てはめや答えは書かず問いとして残す
+- [Socraticの連鎖質問ではゴールを先に示す](feedback_socratic_show_goal_first.md) — 複数の質問を連鎖させる前に「ゴールはX」と先に宣言する

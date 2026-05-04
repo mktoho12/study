@@ -6,3 +6,4 @@
 - [Socraticの連鎖質問ではゴールを先に示す](feedback_socratic_show_goal_first.md) — 複数の質問を連鎖させる前に「ゴールはX」と先に宣言する
 - [形式式と日本語訳をセットで出す](feedback_formal_to_natural_translation.md) — 量化子付き命題は機械的な読み下しと整理した自然語の両方を併記
 - [えむけーの数学的バックグラウンド](user_math_background.md) — ホワイトヘッド『数学入門』既読、集合と論理で量化子は反復練習済み
+- [練習問題は教科書スコープ内](feedback_practice_in_textbook_scope.md) — AI 独自の発展問題を練習問題に混入させない。発展は別建てで明示

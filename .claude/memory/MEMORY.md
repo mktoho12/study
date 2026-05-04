@@ -4,3 +4,4 @@
 - [ガイダンス章では深追いしない](feedback_guidance_chapter_depth.md) — 概観セクションでは Socratic で定義を導出しきらず、見取り図止まり
 - [Socratic中のファイル出力では答えを書かない](feedback_socratic_file_output_no_answers.md) — 「数式読めないから書いて」要求でも、選択肢への当てはめや答えは書かず問いとして残す
 - [Socraticの連鎖質問ではゴールを先に示す](feedback_socratic_show_goal_first.md) — 複数の質問を連鎖させる前に「ゴールはX」と先に宣言する
+- [形式式と日本語訳をセットで出す](feedback_formal_to_natural_translation.md) — 量化子付き命題は機械的な読み下しと整理した自然語の両方を併記
